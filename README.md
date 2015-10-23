@@ -5,7 +5,7 @@ work on my project at home and at work.
 
 ## here is my code so far for my project:
 
-```x = input('Enter the aluminium fraction as a decimal ')
+```python x = input('Enter the aluminium fraction as a decimal ')
 x = float(x)
 def algaasbg(x):
     return 1.439 + (1.042*x) + (0.468*x*x)
